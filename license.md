@@ -46,8 +46,8 @@ O autor não se responsabiliza por quaisquer danos diretos, indiretos, incidenta
 
 ## 💼 Contato para Autorização ou Dúvidas
 
-- **Desenvolvedor:** [Gabriel Horakhty (S Silva)]  
-- **Email:** [system.dev@outlook.com.br]  
+- **Desenvolvedor:** Gabriel Horakhty (S Silva)  
+- **Email:** system.dev@outlook.com.br  
 
 ---
 
@@ -57,4 +57,4 @@ Ao utilizar este software, você declara estar ciente e de acordo com todos os t
 
 ---
 
-**© [Gabriel Horakhty] — Todos os direitos reservados.**
+**© Gabriel Horakhty — Todos os direitos reservados.**
