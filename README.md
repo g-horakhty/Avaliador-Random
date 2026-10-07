@@ -49,3 +49,5 @@ bre)*
 
 ### Como executar?
  Basta baixar o arquivo .exe ou o .msi e usar a aplicação
+
+# PROJETO DESCONTINUADO 
